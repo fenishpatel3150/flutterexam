@@ -1,16 +1,7 @@
-# flutterexam
+<img src="https://github.com/user-attachments/assets/fab2e94d-40cd-4855-9666-5f51231e2e2e" alt="" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/39d78af0-f611-4df7-a0b5-27df79db6e7b" alt="" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/7e045e33-d55c-4a80-9934-9e54304ab382" alt="" width="300" height="auto">
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/user-attachments/assets/d80b25ce-85bc-4e52-8706-6e6e1304c9ac
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
